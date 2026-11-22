@@ -15,3 +15,12 @@ Note: The processing time of this program will take over an hour if the scope of
 Results from time of project submission are at the bottom of this page, re-running the program in it's current state will take >2 hours and may produce different results.
 
 This was initially deveoped using the Google Colab cloud system and is designed to be run using Google cloud servers, running this locally will probably take far longer to process.
+
+## Copyright
+
+Copyright (c) 2020 Josh (github.com/bearnz). All rights reserved.
+
+No licence is granted. You are welcome to read this code and to fork it on
+GitHub; you may not use, copy, modify or redistribute it without permission.
+See [NOTICE](NOTICE) for the terms, and open an issue if you would like to use
+any of it.
